@@ -12,6 +12,7 @@ The metadata required for importing any picture in Pix4D are:
  * GPSLongitude
  * FocalLength
  * PixelSize _attribute not found_
+
 If some of these tag are not embedded Pix4D will use a default value.
 
 ### Design
